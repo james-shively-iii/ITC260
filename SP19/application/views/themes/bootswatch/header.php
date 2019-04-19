@@ -29,10 +29,10 @@
 -->
           <li><?=anchor('news','News Articles')?></li>
           <li><?=anchor('news/create','Create News')?></li>
-<!-- 
-          <li><?=// anchor('customer/mylist','Customers')?></li>
-          <li><?=// anchor('customer/add','Add Customer')?></li> 
--->
+
+          <li><?=anchor('customer/mylist','Customers')?></li>
+          <li><?=anchor('customer/add','Add Customer')?></li> 
+
           </ul>
         </div>
       </div>
