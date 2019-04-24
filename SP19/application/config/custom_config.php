@@ -2,8 +2,13 @@
 //custom_config.php - a place to save global settings
 
 $config['style'] = 'spacelab.css';
-$config['banner'] = 'Bad News Dudes';
-$config['title'] = 'BND - ITC260';
+$config['banner'] = 'Default Banner';
+$config['title'] = 'Default Title';
 $config['copyright'] = 'Odis Mills Entertainment';
 $config['masthead'] = 'SSOM';
 $config['theme'] = 'themes/bootswatch/';
+
+$config['nav1'] = array(
+    'news' => 'News',
+    'news/create' => 'Create News'
+);
