@@ -7,8 +7,10 @@ $config['title'] = 'Default Title';
 $config['copyright'] = 'Odis Mills Entertainment';
 $config['masthead'] = 'SSOM';
 $config['theme'] = 'themes/bootswatch/';
+$config['flickrKey'] = '784d1ac26b715d07308165e7dcf216f0';
 
 $config['nav1'] = array(
     'news' => 'News',
-    'news/create' => 'Create News'
+    'news/create' => 'Create News',
+    'pics' => 'Photos'
 );
